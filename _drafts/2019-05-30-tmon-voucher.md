@@ -3,6 +3,8 @@ layout: post
 title: "[5/1~5/31]티몬 1000원 적립금 쿠폰"
 category : 나눔
 tags : [티몬,tmon,ticketmoster,쿠폰,적립금,바우처]
+metaimg : /assets/img/review/NORIPARK-1.png
+description : "5월1일부터 5월31일 한달간 사용 가능한 1000원 적립금 바우처를 나눔합니다."
 ---
 5월1일부터 5월31일 한달간 사용 가능한 1000원 적립금 바우처를 나눔합니다.    
 - 아래 쿠폰 번호를 입력하시면 티몬 적립금 1000원이 지급됩니다.    
