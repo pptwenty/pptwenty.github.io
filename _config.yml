@@ -48,6 +48,6 @@ main:
 
 # Puglins
 mathjax: true # whether support mathjax
-google_analytics_token: 'UA-89877408-1' # leave blank if you don't want google analytics
+google_analytics_token: 'UA-89877408-2' # leave blank if you don't want google analytics
 naver_analytics_token: '1951905721e24'
 disqus_short_name: 'pptwenty-github-io' # leave blank if you don't want disqus
